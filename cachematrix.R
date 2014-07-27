@@ -1,4 +1,4 @@
-## This file contains funcitons which allow for the caching of the inverse of
+## This file contains functions which allow for the caching of the inverse of
 ## a matrix.
 
 ## A function that creates a special "matrix", which is a list containing
